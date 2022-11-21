@@ -3,7 +3,7 @@ body{
     width: 100%;
     max-width: fit-content;
     /* margin: 0 auto; */
-    display: black;
+    display: block;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* font: 600; */
     margin: 8px;
